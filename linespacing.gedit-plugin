@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=linespacing
+IAge=2
+Name=Line-spacing
+Description=Increase or decrease space between lines
+Authors=Osmo Salomaa <otsaloma@cc.hut.fi>
+Copyright=Copyright (C) 2008 Osmo Salomaa
+Website=http://users.tkk.fi/~otsaloma/gedit

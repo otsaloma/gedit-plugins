@@ -1,0 +1,11 @@
+<ui>
+  <menubar name="MenuBar">
+    <menu name="EditMenu" action="Edit">
+      <placeholder name="EditOps_1">
+        <separator/>
+        <menuitem action="DeleteLine"/>
+        <menuitem action="DeleteWord"/>
+      </placeholder>
+    </menu>
+  </menubar>
+</ui>

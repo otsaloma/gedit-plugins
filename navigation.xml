@@ -1,0 +1,9 @@
+<ui>
+  <menubar name="MenuBar">
+    <menu name="SearchMenu" action="Search">
+      <separator/>
+      <menuitem action="BeginningOfLine"/>
+      <menuitem action="EndOfLine"/>
+    </menu>
+  </menubar>
+</ui>

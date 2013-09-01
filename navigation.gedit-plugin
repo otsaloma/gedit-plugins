@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=navigation
+IAge=2
+Name=Navigation
+Description=Additional methods of moving in the text
+Authors=Osmo Salomaa <otsaloma@cc.hut.fi>
+Copyright=Copyright (C) 2006-2008 Osmo Salomaa
+Website=http://users.tkk.fi/~otsaloma/gedit

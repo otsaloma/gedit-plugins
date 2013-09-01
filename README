@@ -1,0 +1,12 @@
+gedit2 plugins
+==============
+
+This is a collection of plugins for gedit 2, some of which were
+originally hosted at [1] (since dead) and listed at [2]. These will not
+work with gedit 3, but can be freely ported by anyone wanting to do so.
+Some of these might already be ported [3] and/or superseded by something
+better.
+
+ [1] http://users.tkk.fi/~otsaloma/gedit
+ [2] https://wiki.gnome.org/Apps/Gedit/PluginsOld
+ [3] https://wiki.gnome.org/Apps/Gedit/Plugins

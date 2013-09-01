@@ -1,0 +1,9 @@
+<ui>
+  <menubar name="MenuBar">
+    <menu name="EditMenu" action="Edit">
+      <placeholder name="EditOps_6">
+        <menuitem name="Sort" action="Sort"/>
+      </placeholder>
+    </menu>
+  </menubar>
+</ui>
